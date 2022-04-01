@@ -106,8 +106,8 @@ body{
     cursor: pointer;
 }
 
-.filter-list .button {color: var(--title-text-color);
-
+.filter-list .button {
+    color: var(--title-text-color);
     background-color: #F5F4FA;
 
     font-weight: 500;
